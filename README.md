@@ -11,4 +11,4 @@ You'll also learn the key concepts and skills required by data engineers such as
 By the end of this track, you'll be equipped with the necessary tools and knowledge to progress your career by handling common data engineering duties.
 
 # Certificate
-![](https://github.com/nakasho5/Data-Engineer/blob/main/Data%20Engineer.pdf)
+![](https://github.com/nakasho5/Data-Engineer/blob/main/Data%20Engineer%20Certificate.png)
